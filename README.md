@@ -1,4 +1,4 @@
-# Minestats1
+# Minestats
 Run Locally
 
 ```
